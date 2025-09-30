@@ -14,7 +14,7 @@ The setup script will automatically install other dependencies.
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd cef_browser_project
+cd aura-cef
 ```
 
 2. Make all scripts executable:
